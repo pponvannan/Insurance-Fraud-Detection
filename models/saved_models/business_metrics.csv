@@ -1,0 +1,2 @@
+TP,FP,FN,TN,Cost_False_Positives,Cost_Missed_Fraud,Total_Model_Cost,Total_Savings,ROI_Percent
+265,18,1,514,9000,25000,34000,6616000,73511.1111029432
