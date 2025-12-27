@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# CatBoost
+catboost_info/
+
+# Logs
+*.log
+
+# Windows specific
+thumbs.db
